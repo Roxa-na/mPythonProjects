@@ -1,5 +1,5 @@
 # University Codes
-The followings give a short description of what I have done for each exercise while taking an elective course **"Scientific programming with python"**. In case a picture or certain file was used, I have provided that in the folder.
+The followings give a short description of what I have done for each exercise while taking an elective course **"Scientific programming with python"**. In case a picture or certain file was used, I have provided that in the folder. The questions are provided as comments in the code body.
 ## Exercise 1
 This was the first exercise, therefore, the questions were simple calculations and inputting and outputting in python. The focus was put on using python's capabilities in handling lists and arrays.
 ## Exercise 2
